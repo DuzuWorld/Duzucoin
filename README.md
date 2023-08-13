@@ -14,7 +14,7 @@ Duzu World aims to revolutionize the way individuals engage with finance, gaming
 
 ## Getting Started
 
-If you're interested in contributing or learning more about the project, feel free to explore the provided directories. For more information, visit our official website [duzuworld.com](http://www.duzuworld.io/) and follow us on social media.
+If you're interested in contributing or learning more about the project, feel free to explore the provided directories. For more information, visit our official website [duzuworld.io](http://www.duzuworld.io/) and follow us on social media.
 
 ## Connect with Us
 
